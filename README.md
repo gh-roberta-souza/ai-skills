@@ -1,27 +1,27 @@
 # AI Design Skills
 
-Coleção de Agent Skills para design de conteúdo visual, com foco em layouts para Instagram e composições matematicamente precisas.
+Collection of Agent Skills for visual content design, focused on Instagram layouts and mathematically precise compositions.
 
-## Skills disponíveis
+## Available skills
 
-| Skill | Descrição |
-|-------|-----------|
-| `instagram_design_system` | Engine de layout determinístico para posts do feed Instagram (1080×1350) |
-| `instagram_carousel_design_system` | Sistema para carrosséis e sequências de posts |
-| `layout_ai_orchestrator` | Orquestrador de layouts com IA |
-| `algorithmic_typography_system` | Sistema tipográfico algorítmico |
-| `virality_prediction_engine` | Engine de predição de viralidade |
-| `layout_entropy_control` | Controle de entropia de layout |
-| `visual_balance_solver` | Solver de equilíbrio visual |
-| `psychology_of_attention_layout` | Layout baseado em psicologia da atenção |
-| `data_visualization_for_instagram` | Visualização de dados para Instagram |
-| `viral_content_layout_patterns` | Padrões de layout para conteúdo viral |
+| Skill | Description |
+|-------|-------------|
+| `instagram_design_system` | Deterministic layout engine for Instagram feed posts (1080×1350) |
+| `instagram_carousel_design_system` | System for carousels and post sequences |
+| `layout_ai_orchestrator` | AI-powered layout orchestrator |
+| `algorithmic_typography_system` | Algorithmic typography system |
+| `virality_prediction_engine` | Virality prediction engine |
+| `layout_entropy_control` | Layout entropy control |
+| `visual_balance_solver` | Visual balance solver |
+| `psychology_of_attention_layout` | Layout based on psychology of attention |
+| `data_visualization_for_instagram` | Data visualization for Instagram |
+| `viral_content_layout_patterns` | Layout patterns for viral content |
 
-## Uso
+## Usage
 
-Estas skills são compatíveis com Cursor e podem ser usadas como Agent Skills. Copie a pasta `ai-design-skills` para `~/.cursor/skills-cursor/` ou configure o caminho no Cursor.
+These skills are compatible with Cursor and can be used as Agent Skills. Copy the `ai-design-skills` folder to `~/.cursor/skills-cursor/` or configure the path in Cursor.
 
-## Estrutura
+## Structure
 
 ```
 ai-design-skills/
@@ -37,4 +37,4 @@ ai-design-skills/
 └── viral_content_layout_patterns/
 ```
 
-Cada skill contém um arquivo `SKILL.md` com a documentação completa.
+Each skill contains a `SKILL.md` file with complete documentation.
