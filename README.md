@@ -29,12 +29,17 @@ flowchart TB
 
 | Stack | Path | Purpose |
 |-------|------|---------|
+| **Domain (Bahia)** | [water-sanitation-bahia-skills/](water-sanitation-bahia-skills/) | Water & sanitation regulation, compliance, legal risk |
 | **Social Strategy** | [social-strategy-skills/](social-strategy-skills/) | Brief analysis, narrative, hooks, distribution |
 | **Design** | [design-skills/](design-skills/) | Instagram layouts, typography, virality |
 | **OSINT** | [osint-skills/](osint-skills/) | Open-source intelligence pipeline |
 | **Copy** | [copy-skills/](copy-skills/) | Persuasive copy, editorial, linguistics |
 
 Each stack has its own README with detailed architecture and Mermaid diagrams.
+
+### Domain layer (use first)
+
+The **water-sanitation-bahia-skills** domain layer provides verified legal references and legal risk assessment. Use before OSINT, strategy, copy, or design when content involves water and sanitation in Bahia.
 
 ## Usage
 
